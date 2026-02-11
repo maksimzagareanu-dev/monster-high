@@ -1,4 +1,4 @@
-/* body {
+body {
   margin: 0;
   font-family: Arial, sans-serif;
   background: #0b0b10;
@@ -59,4 +59,4 @@ main {
   main {
     grid-template-columns: repeat(2, 1fr);
   }
-} */
+}
